@@ -1,0 +1,2 @@
+Total Stations,Valid Stations (no nan),Mean 95% Coverage,Std 95% Coverage,Stations with 95% Coverage >= 0.90,Stations with 95% Coverage >= 0.95,Mean 50% Coverage,Std 50% Coverage,Mean KGE,Mean NSE,Mean KGE (median),Mean NSE (median),Mean Relative CI Width (95%),config_a,config_b,config_c,config_d
+558,557,0.6412438393620503,0.2745488496711092,120,73,0.4945429851534962,0.2680751288013724,-1.0768128909057528,-40.52092901418561,-1.0774170247901242,-40.9688575487404,3.717880964001028,node,1.5,noqa,VersionD

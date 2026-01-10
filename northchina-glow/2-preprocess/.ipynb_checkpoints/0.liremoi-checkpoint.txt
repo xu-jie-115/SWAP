@@ -1,0 +1,5 @@
+GAGE_3000points~4widths.shp是4倍河宽buffer，原因是有些buffer偏离河道，为了全覆盖，因此，4倍buffer。
+GAGE_3000points~matched_points.shp是buffer中的GLOW点。
+gages3000_glow_datemean_width_timeseries.csv 是站点对应的GLOW宽度
+gages3000_GRFR_q50是径流中位数。
+node_clipe是节点数据。

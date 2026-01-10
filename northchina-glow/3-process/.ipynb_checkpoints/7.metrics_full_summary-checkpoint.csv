@@ -1,0 +1,5 @@
+source,kge_median,kge_mean,kge_count,kge_>0(%),nrmse_median,nrmse_mean,nrmse_count,nrmse_<0.6(%),nse_median,nse_mean,nse_count,nse_>0(%)
+med_modified_q50_iqr_node_1.0_noqa_VersionD,-0.0221,0.0123,14,42.86,0.9778,1.0687,14,21.43,-0.0041,-0.1332,14,50.0
+med_modified_q50_iqr_node_1.0_qaloose_VersionD,-0.0177,0.12,9,44.44,0.9897,0.8643,9,33.33,-0.1898,-0.1778,9,44.44
+med_modified_q50_iqr_node_1.5_noqa_VersionD,0.0993,0.1054,15,53.33,0.9875,1.0062,15,26.67,0.0086,0.0004,15,53.33
+med_modified_q50_iqr_node_1.5_qaloose_VersionD,-0.0353,0.1417,9,44.44,0.9567,0.8513,9,33.33,-0.2098,-0.1024,9,44.44
