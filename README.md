@@ -27,6 +27,14 @@ This repository provides a complete implementation of the methodology presented 
 └── README.md
 ```
 
+## Requirements
+- Python 3.8 or higher
+- Required packages:
+  - numpy
+  - pandas
+  - scikit-learn
+  - scipy
+
 ## Script Descriptions
 ### 1. Width Statistics (`1_width_statistics.py`)
 Computes river width statistics from Landsat-derived river width data, providing foundational width characteristics for subsequent analysis.
